@@ -23,5 +23,6 @@ public class Adress {
     public Adress(){}
     public Adress(String detail) {
         this.detail = detail;
+
     }
 }
